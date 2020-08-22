@@ -22,7 +22,7 @@ Example:
 klogger 192.168.0.112 7777
 ```
 
-#### Writing your own produces
+#### Writing your own producers
 If you don't want UDP producer, then you can write your own producer module. Look at `src/socket_impl.h`
 
 ```C++
